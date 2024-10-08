@@ -1,0 +1,18 @@
+Ray Lui
+rlui05
+-------------------------------------------------------------------------------
+
+To run my program, run the command "make mytalk", to get rid of object files,
+run "make clean". Running it follows the specs/guidelines.
+
+-v turns on verbose, gives the user more statements of what is happening during
+the process of connections.
+
+-a only applies to the server, the server accepts all connections.
+
+-N turns off windowing mode, when N flag is not present, windowing will be on.
+
+In the terminal(NON WINDOW MODE), the user must hit CTRL D twice IF there the
+user has typed a message beforehand, your program does this too :). If there is
+no text, CTRL D only needs to be typed once.
+
